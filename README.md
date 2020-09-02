@@ -28,7 +28,7 @@
 | ![image](https://user-images.githubusercontent.com/5353685/91980879-57605200-ecfe-11ea-8d09-afff6bff3661.png) | [snppts.dev](https://dribbble.com/shots/following/mobile) |
 
 
-## App screen for store
+## Prepare to store
 
 |Screen | App |
 | ------| ----  |
