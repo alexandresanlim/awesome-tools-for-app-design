@@ -24,6 +24,15 @@
 | <img width='600' src='https://user-images.githubusercontent.com/5353685/91980930-6cd57c00-ecfe-11ea-84d1-9e7e79266957.png'/> | [Launch Icon Generator](https://romannurik.github.io/AndroidAssetStudio/index.html) </br> A collection of tools to easily generate assets such as launcher icons for your Android app.  </br></br> ✔ Free </br></br> |
 | <img width='600' src='https://user-images.githubusercontent.com/5353685/91980956-7e1e8880-ecfe-11ea-855d-ce03e1df3c7d.png'/> | [App Icon Maker](https://appiconmaker.co/) </br> App Icon Maker will generate all required app icon sizes for iOS and Android projects. Release your app faster with App Icon Maker. With App Icon Maker, you can import app icons to Xcode, Android Studio and Visual Studio.  </br></br> ✔ Free </br></br> |
 
+## Colors
+
+|Screen | App |
+| ------| ----  |
+| <img width='600' src='https://user-images.githubusercontent.com/5353685/92117203-43365680-edcb-11ea-9c79-3a45855ee37e.png' /> | [Img color picker](https://imagecolorpicker.com/en/)</br>Use the online image color picker right to select a color and get the HTML Color Code of this pixel. Also you get the HEX color code value, RGB value and HSV value. You can put a picture url in the textbox below or upload your own image. (for example an screenshot of your desktop). Or use an website url, you will see a thumbnail on the right side.  </br></br> ✔ Free </br></br> |
+| <img width='600' src='https://user-images.githubusercontent.com/5353685/92117296-66f99c80-edcb-11ea-94b2-d067a0583c9b.png' /> | [Color tools](https://material.io/resources/color/#!/?view.left=0&view.right=0)</br> Create, share, and apply color palettes to your UI, as well as measure the accessibility level of any color combination.  </br></br> ✔ Free </br></br> |
+| <img width='600' src='https://user-images.githubusercontent.com/5353685/92117378-80024d80-edcb-11ea-9a32-571f49f102af.png' /> | [FlatUI colors](https://flatuicolors.com/)</br>A total set of 14 color palettes and 280 colors for your designs, projects, presentations and other needs..  </br></br> ✔ Free </br></br> |
+| <img width='600' src='https://user-images.githubusercontent.com/5353685/92117494-9dcfb280-edcb-11ea-98d6-2d39b98e99df.png' /> | [Material design pallets](https://www.materialpalette.com/)</br></br> ✔ Free </br></br> |
+
 ## Animation
 
 |Screen | App |
