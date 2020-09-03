@@ -20,7 +20,7 @@
 
 |Screen | App |
 | ------| ----  |
-| <img width='600' src='https://user-images.githubusercontent.com/5353685/91980817-3dbf0a80-ecfe-11ea-8954-ef01eb5a83f9.png'/> | [LottieFiles](https://lottiefiles.com/recent) </br> Lottie animations and the tools you need to test and perfect them. Simply edit and ship your animations in just a few clicks.  </br></br> ✔ Free </br></br> |
+| <img width='600' src='https://user-images.githubusercontent.com/5353685/91980817-3dbf0a80-ecfe-11ea-8954-ef01eb5a83f9.png'/> | [LottieFiles](https://lottiefiles.com/recent) </br> Lottie animations and the tools you need to test and perfect them. Simply edit and ship your animations in just a few clicks.  </br></br> ✔ Free </br></br> How to use on: </br> [Xamarin.Forms](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-lottie-51433d80af12) by [@TBertuzzi](https://github.com/TBertuzzi) (Pt-br) |
 
 
 ## Community
