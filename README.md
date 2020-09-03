@@ -12,6 +12,7 @@
 |Screen | App |
 | ------| ----  |
 | <img width='600' src='https://user-images.githubusercontent.com/5353685/91980725-19fbc480-ecfe-11ea-9ceb-80892b9476de.png'/> | [Font Awesome](https://fontawesome.com/icons?d=gallery&s=solid&m=free) |
+| <img width='600' src='https://user-images.githubusercontent.com/5353685/92111616-f2bafb00-edc2-11ea-9f95-90daaff17d40.png'/> | [MaterialIO](https://material.io/resources/icons/?style=baseline) |
 | <img width='600' src='https://user-images.githubusercontent.com/5353685/91980930-6cd57c00-ecfe-11ea-84d1-9e7e79266957.png'/> | [Launch Icon Generator](https://romannurik.github.io/AndroidAssetStudio/index.html) |
 | <img width='600' src='https://user-images.githubusercontent.com/5353685/91980956-7e1e8880-ecfe-11ea-855d-ce03e1df3c7d.png'/> | [App Icon Maker](https://appiconmaker.co/) |
 
