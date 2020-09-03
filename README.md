@@ -28,7 +28,7 @@
 
 |Screen | App |
 | ------| ----  |
-| <img width='600' src='https://user-images.githubusercontent.com/5353685/92117203-43365680-edcb-11ea-9c79-3a45855ee37e.png' /> | [Img color picker](https://imagecolorpicker.com/en/)</br>Use the online image color picker right to select a color and get the HTML Color Code of this pixel. Also you get the HEX color code value, RGB value and HSV value. You can put a picture url in the textbox... </br></br> ✔ Free </br></br> |
+| <img width='600' src='https://user-images.githubusercontent.com/5353685/92117203-43365680-edcb-11ea-9c79-3a45855ee37e.png' /> | [Img color picker](https://imagecolorpicker.com/en/)</br>Use the online image color picker right to select a color and get the HTML Color Code of this pixel. Also you get the HEX color code value... </br></br> ✔ Free </br></br> |
 | <img width='600' src='https://user-images.githubusercontent.com/5353685/92117296-66f99c80-edcb-11ea-94b2-d067a0583c9b.png' /> | [Color tools](https://material.io/resources/color/#!/?view.left=0&view.right=0)</br> Create, share, and apply color palettes to your UI, as well as measure the accessibility level of any color combination.  </br></br> ✔ Free </br></br> |
 | <img width='600' src='https://user-images.githubusercontent.com/5353685/92117378-80024d80-edcb-11ea-9a32-571f49f102af.png' /> | [FlatUI colors](https://flatuicolors.com/)</br>A total set of 14 color palettes and 280 colors for your designs, projects, presentations and other needs..  </br></br> ✔ Free </br></br> |
 | <img width='600' src='https://user-images.githubusercontent.com/5353685/92117494-9dcfb280-edcb-11ea-98d6-2d39b98e99df.png' /> | [Material design pallets](https://www.materialpalette.com/)</br></br> ✔ Free </br></br> |
