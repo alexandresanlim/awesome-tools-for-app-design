@@ -1,5 +1,14 @@
 # List.NiceToolsForAppDesign
 
+## Menu
+- [Inspiration](#inspiration)
+- [Prototipy](#prototipy)
+- [Icon](#icon)
+- [Color](#color)
+- [Animation](#animation)
+- [Community](#community)
+- [Prepare to Store](#preparetostore)
+- [Brand Kit](#brandkit)
 
 ## Inspiration
 
@@ -25,7 +34,7 @@
 | <img width='600' src='https://user-images.githubusercontent.com/5353685/91980930-6cd57c00-ecfe-11ea-84d1-9e7e79266957.png'/> | [Launch Icon Generator](https://romannurik.github.io/AndroidAssetStudio/index.html) </br> A collection of tools to easily generate assets such as launcher icons for your Android app.  </br></br> ✔ Free </br></br> |
 | <img width='600' src='https://user-images.githubusercontent.com/5353685/91980956-7e1e8880-ecfe-11ea-855d-ce03e1df3c7d.png'/> | [App Icon Maker](https://appiconmaker.co/) </br> App Icon Maker will generate all required app icon sizes for iOS and Android projects. Release your app faster with App Icon Maker. With App Icon Maker, you can import app... </br></br> ✔ Free </br></br> |
 
-## Colors
+## Color
 
 |Screen | App |
 | ------| ----  |
