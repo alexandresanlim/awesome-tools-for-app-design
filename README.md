@@ -1,14 +1,14 @@
 # List.NiceToolsForAppDesign
 
 ## Menu
-- [Inspiration](#inspiration)
-- [Prototipy](#prototipy)
-- [Icon](#icon)
-- [Color](#color)
-- [Animation](#animation)
-- [Community](#community)
-- [Prepare to Store](#prepare-to-store)
-- [Brand Kit](#brand-kit)
+- [Inspiration](#inspiration-)
+- [Prototipy](#prototipy-)
+- [Icon](#icon-)
+- [Color](#color-)
+- [Animation](#animation-)
+- [Community](#community-)
+- [Prepare to Store](#prepare-to-store-)
+- [Brand Kit](#brand-kit-)
 
 ## Inspiration
 
