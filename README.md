@@ -7,8 +7,8 @@
 - [Color](#color)
 - [Animation](#animation)
 - [Community](#community)
-- [Prepare to Store](#preparetostore)
-- [Brand Kit](#brandkit)
+- [Prepare to Store](#prepare-to-store)
+- [Brand Kit](#brand-kit)
 
 ## Inspiration
 
