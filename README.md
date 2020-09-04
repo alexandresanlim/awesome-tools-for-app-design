@@ -10,7 +10,7 @@
 - [Prepare to Store](#prepare-to-store-)
 - [Brand Kit](#brand-kit-)
 
-## Inspiration
+## Inspiration [🔝](#menu)
 
 |Screen | App |
 | ------| ----  |
