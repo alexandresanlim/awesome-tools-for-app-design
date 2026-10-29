@@ -33,6 +33,7 @@
 | <img width='600' src='https://user-images.githubusercontent.com/5353685/92111616-f2bafb00-edc2-11ea-9f95-90daaff17d40.png'/> | [MaterialIO](https://material.io/resources/icons/?style=baseline) </br> Material icons are delightful, beautifully crafted symbols for common actions and items. Download on desktop to use them in your digital products for Android, iOS, and web. </br></br> ✔ Free </br></br> |
 | <img width='600' src='https://user-images.githubusercontent.com/5353685/91980930-6cd57c00-ecfe-11ea-84d1-9e7e79266957.png'/> | [Launch Icon Generator](https://romannurik.github.io/AndroidAssetStudio/index.html) </br> A collection of tools to easily generate assets such as launcher icons for your Android app.  </br></br> ✔ Free </br></br> |
 | <img width='600' src='https://user-images.githubusercontent.com/5353685/91980956-7e1e8880-ecfe-11ea-855d-ce03e1df3c7d.png'/> | [App Icon Maker](https://appiconmaker.co/) </br> App Icon Maker will generate all required app icon sizes for iOS and Android projects. Release your app faster with App Icon Maker. With App Icon Maker, you can import app... </br></br> ✔ Free </br></br> |
+|  | [Pic2Vector](https://pic2vector.com/)<br><br>Free browser-based converter that turns PNG, JPG or WebP icons and logos into SVG, with no signup and no upload.<br><br>✔ Free <br><br> |
 
 ## Color [🔝](#menu)
 
