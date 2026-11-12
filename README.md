@@ -71,3 +71,4 @@
 |Screen | App |
 | ------| ----  |
 | <img width='600' src='https://user-images.githubusercontent.com/5353685/91981141-c178f700-ecfe-11ea-8901-a23be04867ce.png'/> | [Canva](https://www.canva.com/)  </br></br> ✔ Free (with limitations) </br></br> |
+| | [PicCollages](https://piccollages.com/) — Free browser-based photo collage maker with grid layouts, text, stickers and direct image download. ✔ Free |
