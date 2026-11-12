@@ -39,6 +39,7 @@
 
 |Screen | App |
 | ------| ----  |
+|  | [Calculation Hub Luminance & Brightness](https://calculation-hub.com/colors/luminance-brightness)<br><br>Compare relative luminance, HSP brightness, luma, and two-color contrast.<br><br>✔ Free <br><br> |
 | <img width='600' src='https://user-images.githubusercontent.com/5353685/92117203-43365680-edcb-11ea-9c79-3a45855ee37e.png' /> | [Img color picker](https://imagecolorpicker.com/en/)</br>Use the online image color picker right to select a color and get the HTML Color Code of this pixel. Also you get the HEX color code value... </br></br> ✔ Free </br></br> |
 |  | [Image Color Picker AI](https://imagecolorpickerai.com/)<br><br>Free browser-based image color picker to extract HEX, RGB, and HSL values from uploaded images.<br><br>✔ Free <br><br> |
 | <img width='600' src='https://user-images.githubusercontent.com/5353685/92117296-66f99c80-edcb-11ea-94b2-d067a0583c9b.png' /> | [Color tools](https://material.io/resources/color/#!/?view.left=0&view.right=0)</br> Create, share, and apply color palettes to your UI, as well as measure the accessibility level of any color combination.  </br></br> ✔ Free </br></br> |
