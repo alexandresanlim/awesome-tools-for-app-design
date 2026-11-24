@@ -23,6 +23,7 @@
 | <img width='600' src='https://user-images.githubusercontent.com/5353685/92115733-43355700-edc9-11ea-97c4-29d912914fd3.png' /> | [Marvel](https://marvelapp.com/)</br>Marvel has everything you need to bring ideas to life and transform how you create digital products with your team...  </br></br> ❌ Free </br></br> |
 | <img width='600' src='https://user-images.githubusercontent.com/5353685/92115797-5cd69e80-edc9-11ea-8bb0-7ceafd27ab22.png' /> | [Invision](https://www.invisionapp.com/)</br> The digital product design platform powering the world’s best user experiences  </br></br> ❌ Free </br></br> |
 | <img width='600' src='https://user-images.githubusercontent.com/5353685/92115858-724bc880-edc9-11ea-9225-f3bdff14eee6.png' /> | [Figma](https://www.figma.com/)</br>Figma helps teams create, test, and ship better designs from start to finish.  </br></br> ❌ Free </br></br> |
+| <img width='600' src='https://kite.new/opengraph-image.png' /> | [Kite](https://kite.new/)</br>Design canvas your team and AI agents share: Claude, ChatGPT, Cursor or Codex connect via hosted MCP and draw real, editable layers. Copy to Figma or export HTML/React/Tailwind.  </br></br> ✔ Free (with limitations) </br></br> |
 
 ## Icon [🔝](#menu)
 
