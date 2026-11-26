@@ -60,6 +60,7 @@
 | <img width='600' src='https://user-images.githubusercontent.com/5353685/91981041-9bebed80-ecfe-11ea-8ccd-e66a49a94613.png'/> | [ShotBot](https://app.shotbot.io/) </br></br> ✔ Free </br></br> |
 | <img width='600' src='https://user-images.githubusercontent.com/5353685/91981098-b45c0800-ecfe-11ea-88d8-0d8f0bd44114.png'/> | [TheAppLaunchPad](https://theapplaunchpad.com/) </br> Create beautiful customized screenshots for your App store & Google play pages. </br></br> ❌ Free </br></br> |
 |  | [Store Screenshot Validator](https://martingruner.com/tools/store-screenshot-validator)<br><br>Check screenshot dimensions, format, file size, and set count against store requirements locally in the browser.<br><br>✔ Free <br><br> |
+|  | [XShots](https://selfark.com/xshots/)<br><br>Native macOS editor for designing and localizing app-store screenshot sets and batch-exporting PNG or JPEG.<br><br>Three-day full trial, then paid. |
 
 ## Brand kit [🔝](#menu)
 
